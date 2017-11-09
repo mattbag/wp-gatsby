@@ -1,0 +1,78 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(24%, 1fr));
+    grid-gap: 10px;
+    grid-auto-rows: minmax(200px, auto);
+    grid-auto-flow: dense;
+    /* padding: 10px; */
+}
+
+.grid-cell {
+    padding: 1rem;
+    border: 1px solid #fff;
+    /* background-color: #333; */
+    /* font-size: 14px; */
+    /* font-weight: bold; */
+    /* text-transform: uppercase; */
+    /* color: #929796;
+    background-color: #333;
+    border-radius: 5px; */
+    -webkit-transition: all .3s .2s ease-in;
+    -moz-transition: all .3s .2s ease-in;
+    transition: all .25s .1s ease-in;
+}
+
+.grid-cell img{
+    -webkit-transition: all .3s .2s ease;
+    -moz-transition: all .3s .2s ease;
+    transition: all .3s .2s ease;
+ filter: grayscale(1);
+ opacity: .85
+}
+@supports not (display: grid) {
+    .grid-cell {
+        margin-bottom: 5px;
+    }
+}
+
+.grid-cell:hover {
+    border-color:transparent;
+    box-shadow: inset 1px 1px 0 0 black, inset -1px -1px 0 0 black,
+    inset 2px 2px 0 0 rgb(255, 255, 255), inset -2px -2px 0 0 rgb(255, 255, 255),
+    inset 3px 3px 0 0 black, inset -3px -3px 0 0 black;
+    background-color: #444;
+}
+.grid-cell:hover img{
+    filter: grayscale(0);
+    opacity: 1
+}
+
+
+/* .grid-cell:nth-child(odd) {
+    background-color: #e1cb90;
+}  */
+
+.grid-cell:nth-child(5n + 2) {
+    grid-column-end: span 2;
+    grid-row-end: span 1;
+}
+
+
+/* .grid-cell:nth-child(7n + 1) {
+    grid-column-end: span 1;
+    grid-row-end: span 2;
+}  */
+
+/* .grid-cell:nth-child(4n + 3) {
+    background-color: #ede5d2;
+} */
+
+.span-2 {
+    grid-column-end: span 2;
+    grid-row-end: span 2;
+}
+
+.span-3 {
+    grid-column-end: span 3;
+    grid-row-end: span 4;
+}
