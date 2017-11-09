@@ -1,0 +1,2 @@
+webpackJsonp([0x6327b09dc655],{884:function(t,e){t.exports={data:{site:{siteMetadata:{title:"The Beauty Insider",description:"Data fetched from a site self hosted with wordpress api"}},wordpressWpProducts:{title:"ghd IV Styler",content:"<p>ghd IV Styler, $240.</p>\n",better_featured_image:{source_url:"http://dcqiwphk5imn5.cloudfront.net/wp-content/uploads/2016/09/13152444/ghd-iv-styler-130291.jpg"},categories:[4]}},pathContext:{id:"18370045-937b-5ccd-bb6e-4bd67bce6f63"}}}});
+//# sourceMappingURL=path---ghd-iv-styler-99b4509b94e4001775e7.js.map

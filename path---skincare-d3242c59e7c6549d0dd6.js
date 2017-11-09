@@ -1,0 +1,2 @@
+webpackJsonp([46586560702079],{1065:function(t,e){t.exports={data:{wordpressPage:{title:"SKINCARE",content:'<p class="p1"><span class="s1">If you want to look and feel your best, then tip top skin is a must. The great news? Beautiful skin that glows is far easier to achieve than you might ever have imagined. Hurrah!</span></p>\n',date:"July 01, 2016"},site:{id:"Site",siteMetadata:{title:"The Beauty Insider",subtitle:"Woo"}}},pathContext:{id:"d2244039-b4f0-5317-8c42-5c05955b498f"}}}});
+//# sourceMappingURL=path---skincare-d3242c59e7c6549d0dd6.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([43937140173235],{760:function(t,e){t.exports={data:{wordpressPage:{title:"api",content:"",date:"July 01, 2016"},site:{id:"Site",siteMetadata:{title:"The Beauty Insider",subtitle:"Woo"}}},pathContext:{id:"4d299da9-b64d-5462-baee-e17877624595"}}}});
+//# sourceMappingURL=path---api-e971c714c305b8f0af74.js.map

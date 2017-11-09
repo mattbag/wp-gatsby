@@ -1,0 +1,2 @@
+webpackJsonp([57319010166036],{997:function(t,e){t.exports={data:{site:{siteMetadata:{title:"The Beauty Insider",description:"Data fetched from a site self hosted with wordpress api"}},wordpressWpProducts:{title:"NEW PRODUCT",content:"<p>EXAMPLE 2 aoo ;nw akm les rd tf y g uytte req wsrt dyfugiuytdrstdf</p>\n",better_featured_image:null,categories:[18]}},pathContext:{id:"a1fd9485-bb04-511f-9feb-c7ba900aea82"}}}});
+//# sourceMappingURL=path---new-product-35ab0da8d890ce21aa7b.js.map

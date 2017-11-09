@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{110:function(t,e){t.exports={data:{site:{siteMetadata:{title:"The Beauty Insider",description:"Data fetched from a site self hosted with wordpress api"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----1607b787538775a8a25e.js.map
