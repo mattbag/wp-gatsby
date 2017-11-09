@@ -10,9 +10,9 @@ class PageTemplate extends Component {
   render() {
     const siteMetadata = this.props.data.site.siteMetadata
     const currentPage = this.props.data.wordpressPage
-console.log('------------------------------------');
-console.log(siteMetadata);
-console.log('------------------------------------');
+// console.log('------------------------------------');
+// console.log(siteMetadata);
+// console.log('------------------------------------');
     return (
       <div>
          <Helmet>

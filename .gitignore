@@ -1,8 +1,8 @@
 # Build Path of Test Fixtures
 .gatsby-context.js
 .DS_Store
-public/
 build/
+public/
 .cache/
 .netlify
 node_modules

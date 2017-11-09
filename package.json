@@ -34,7 +34,8 @@
     "build": "gatsby build",
     "start": "gatsby serve",
     "predeploy": "gatsby build --prefix-paths",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "cleanup": "rm -rf node_modules/gh-pages/.cache"
   },
   "devDependencies": {
     "eslint": "^4.1.1",

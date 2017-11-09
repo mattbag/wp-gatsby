@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/gatsby-wp`,
+  pathPrefix: `/wp-gatsby`,
   siteMetadata: {
     title: `The Beauty Insider`,
     description: `Data fetched from a site self hosted with wordpress api`,
